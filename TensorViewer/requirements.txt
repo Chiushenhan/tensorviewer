@@ -1,0 +1,5 @@
+flask>=3.0
+flask-compress>=1.14
+trimesh>=4.0
+numpy>=1.26
+gunicorn>=21.0
